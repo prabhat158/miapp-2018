@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Mood Indigo</string>
+    <string name="hello_blank_compi_fragment">Hello Blank Compi Fragment</string>
+    <string name="hello_blank_news_fragment">Hello Blank News Fragment</string>
+    <string name="hello_main_fragment">Hello Main Fragment</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="titleOfNewsCard">Title: </string>
+    <string name="descriptionOfNewsCard">Description: </string>
+
+
+    <string name="facebook_app_id">1837979199864117</string>
+    <string name="fb_login_protocol_scheme">fb1837979199864117</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="BASE_URL">https://api2.moodi.org/</string>
+    <string name="title_activity_contacts">ContactsActivity</string>
+
+    <!--    Permissions    -->
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E88E5</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#ffffff</color>
+
+    <color name="grey">#a9a8a2</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#DEB951</color>
+    <color name="green">#90EE90</color>
+    <color name="black">#000000</color>
+    <color name="colorGray">#757575</color>
+    <color name="orangeRed">#FFA726</color>
+
+    <color name="datePicker">#5ac3f5</color>
+    <color name="purplebg">#9191d5</color>
+
+    <color name="navBlueBottom">#5ac3f5</color>
+    <color name="noEntryRed">#C20114</color>
+    <color name="roadRed">#EF5D73</color>
+
+
+</resources>

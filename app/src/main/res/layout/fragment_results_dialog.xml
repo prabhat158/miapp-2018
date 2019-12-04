@@ -1,0 +1,46 @@
+<ScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context="com.iitbombay.moodi.moodindigo.Fragments.DetailsDialogFragment"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/purplebg">
+
+
+    <TextView
+        android:id="@+id/note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:gravity="center"
+        android:minWidth="300dp"
+        android:layout_marginTop="5dp"
+        android:paddingBottom="12dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:textColor="#ffffff"
+        android:text="@string/hello_blank_fragment"
+        android:textSize="20sp"
+        android:fontFamily="@font/without_alt_sans_light"/>
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minWidth="300dp"
+        android:paddingBottom="8dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:textColor="#ffffff"
+        android:text="@string/hello_blank_fragment"
+        android:textSize="20sp"
+        android:fontFamily="@font/without_alt_sans_medium"/>
+
+
+</LinearLayout>
+</ScrollView>

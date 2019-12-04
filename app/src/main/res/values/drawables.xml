@@ -1,0 +1,12 @@
+<resources>
+    <item name="ic_menu_voting" type="drawable">@drawable/ic_menu_voting</item>
+    <item name="ic_menu_call" type="drawable">@android:drawable/ic_menu_call</item>
+    <item name="ic_menu_info_details" type="drawable">@android:drawable/ic_menu_info_details</item>
+    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_help" type="drawable">@android:drawable/ic_menu_help</item>
+    <item name="ic_menu_news" type="drawable">@drawable/ic_menu_news</item>
+    <item name="ic_menu_event" type="drawable">@drawable/ic_menu_event</item>
+    <item name="ic_menu_compi" type="drawable">@drawable/ic_menu_compi</item>
+    <item name="ic_menu_developers" type="drawable">@drawable/ic_menu_developers</item>
+    <item name="ic_menu_lookback" type="drawable">@android:drawable/ic_menu_gallery</item>
+</resources>

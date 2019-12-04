@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group
+        android:id="@+id/menu_between"
+        android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_home"
+            android:icon="@drawable/icons_home_1"
+            android:title="Home"
+            />
+        <item android:id="@+id/nav_my_events"
+            android:icon="@drawable/icon_events"
+            android:title="My Events"
+            />
+        <item android:id="@+id/nav_results"
+            android:icon="@drawable/icon_results_1"
+            android:title="Results"
+            />
+
+        <item
+            android:id="@+id/nav_fnb"
+            android:icon="@drawable/icons_foods_n_b"
+            android:iconTint="#999999"
+            android:iconTintMode="screen"
+            android:title="Food n Beverages"
+            />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/icon_about_us_1"
+            android:title="About MI" />
+        <item
+            android:id="@+id/nav_faq"
+            android:icon="@drawable/icon_faq_1"
+            android:title="FAQs" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/icon_contact_us"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_helpline"
+            android:icon="@drawable/icon_helpline_1"
+            android:iconTint="#999999"
+            android:title="Helpline" />
+        <item
+            android:id="@+id/nav_developers"
+            android:icon="@drawable/icon_developer_1"
+            android:title="Developers" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/googleg_disabled_color_18"
+            android:title="Logout" />
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/googleg_disabled_color_18"
+            android:title="Login" />
+    </group>
+    <item android:title="">
+        <menu>
+
+        </menu>
+    </item>
+
+
+</menu>

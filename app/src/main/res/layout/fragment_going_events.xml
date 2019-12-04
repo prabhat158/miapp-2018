@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iitbombay.moodi.moodindigo.EventListFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler_view_events"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" /><TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/no_events"
+        android:text="Click on the bell beside the event name in schedule to add it to your event list"
+    android:gravity="center"
+    android:fontFamily="@font/without_alt_sans_medium"
+    android:textSize="16sp"
+    android:textColor="#000"
+    android:layout_margin="@dimen/activity_horizontal_margin"/>
+
+
+</FrameLayout>
